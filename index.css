@@ -1,0 +1,24 @@
+body{
+
+    background-color: darkgrey;
+}
+h1{
+    text-align: center;
+    margin: 10rem auto ;
+    font-family: 'Satisfy', cursive;
+    font-size: 4rem;
+}
+
+.container{
+    height: 5rem;
+    width: 22rem;
+    background-color: black;
+    border: 4px solid red;
+    border-radius: 15px;
+    margin: auto;
+    color: rgba(255, 55, 55, 0.856);
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 3rem;
+    box-shadow: 10px 6px 5px rgb(66, 66, 66);
+}
